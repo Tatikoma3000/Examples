@@ -1,0 +1,18 @@
+Медицина:
+https://huggingface.co/datasets/blinoff/medical_qa_ru_data?row=96
+
+Болталка
+https://huggingface.co/datasets/Den4ikAI/russian_instructions_2
+https://huggingface.co/datasets/zjkarina/matreshka?row=55
+https://huggingface.co/datasets/inkoziev/incomplete_utterance_restoration
+
+Ассоциации:
+https://huggingface.co/datasets/solkogan/russian_nouns_associations/viewer/default/train?p=9638
+
+Анекдоты:
+https://huggingface.co/datasets/artemsnegirev/dialogs_from_jokes/viewer/default/train?p=2
+
+Без темы:
+https://huggingface.co/datasets/RussianNLP/wikiomnia
+https://huggingface.co/datasets/AlexWortega/habr_qa_sbs
+https://huggingface.co/datasets/its5Q/yandex-q?row=46
